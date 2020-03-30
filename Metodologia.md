@@ -14,3 +14,9 @@ Los pasos que siguieron fueron:
 
 ## Front-End
 
+- Crear el repositorio `front-hack-the-covid19`
+- Instalar y Ejecutar Vue-CLI
+- Instalar el UI de Vuetify
+- Definir las vistas y rutas
+
+
