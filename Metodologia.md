@@ -10,6 +10,7 @@ Los pasos que siguieron fueron:
 - Instalar y Ejecutar Sequelize-CLI
 - Crear la Base de Datos y las tablas con sus relaciones
 - Crear la API REST con Express.js
+- Crear las estrategias de autenticacion (Por Username, Por email)
 
 ## Front-End
 

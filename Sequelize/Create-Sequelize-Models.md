@@ -21,7 +21,7 @@ npx sequelize-cli model:generate --name Viaje --attributes vi_codigo:string,vi_f
 ## Usuario
 
 ```bash
-npx sequelize-cli model:generate --name Usuario --attributes us_tipo_usuario:string,us_codigo:string,us_nombre:string,us_apellido_paterno:string,us_apellido_materno:string,us_carnet_identidad:bigint,us_carnet_lugar_exp:string,us_direccion_domicilio:string,us_telefono_fijo:bigint,us_telefono_movil:bigint,us_telefono_emergency:bigint,us_licencia_conducir:string,us_categoria_licencia:string,us_status_covid:string,us_estado:string
+npx sequelize-cli model:generate --name Usuario --attributes us_tipo_usuario:string,us_codigo:string,us_nombre:string,us_apellido_paterno:string,us_apellido_materno:string,us_carnet_identidad:bigint,us_carnet_lugar_exp:string,us_direccion_domicilio:string,us_telefono_fijo:bigint,us_telefono_movil:bigint,us_telefono_emergency:bigint,us_email:string,us_username:string,us_password:string,us_licencia_conducir:string,us_categoria_licencia:string,us_status_covid:string,us_estado:string
 ```
 
 ## UsuarioEnfermo
