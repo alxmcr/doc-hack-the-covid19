@@ -3,7 +3,7 @@
 ## Ruta
 
 ```bash
-npx sequelize-cli model:generate --name Ruta --attributes ru_codigo:string,ru_lugar_partida:string,ru_lugar_destino:string,ru_estado:boolean
+npx sequelize-cli model:generate --name Ruta --attributes ru_codigo:string,ru_nombre:string,ru_lugar_partida:string,ru_lugar_destino:string,ru_estado:boolean
 ```
 
 ## Bus
